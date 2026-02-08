@@ -1,0 +1,8 @@
+{"image_path": "HeRLB/test/longitudinal_scratch/Face4_10-32-06-430_1_p1.png", "label": 1.0, "class_name": "HeRLB", "mask_path": "HeRLB/ground_truth/Face4_10-32-06-430_1_p1.png"}
+{"image_path": "HeRLB/test/longitudinal_scratch/Face3_10-02-06-225_1_p1.png", "label": 1.0, "class_name": "HeRLB", "mask_path": "HeRLB/ground_truth/Face3_10-02-06-225_1_p1.png"}
+{"image_path": "HeRLB/test/longitudinal_scratch/Face4_10-00-02-715_1_p1.png", "label": 1.0, "class_name": "HeRLB", "mask_path": "HeRLB/ground_truth/Face4_10-00-02-715_1_p1.png"}
+{"image_path": "HeRLB/test/longitudinal_scratch/Face1_16-40-01-918_5_p1.png", "label": 1.0, "class_name": "HeRLB", "mask_path": "HeRLB/ground_truth/Face1_16-40-01-918_5_p1.png"}
+{"image_path": "HeRLB/test/good/6231.png", "label": 0.0, "class_name": "HeRLB"}
+{"image_path": "HeRLB/test/good/6774.png", "label": 0.0, "class_name": "HeRLB"}
+{"image_path": "HeRLB/test/good/6777.png", "label": 0.0, "class_name": "HeRLB"}
+{"image_path": "HeRLB/test/good/6230.png", "label": 0.0, "class_name": "HeRLB"}
