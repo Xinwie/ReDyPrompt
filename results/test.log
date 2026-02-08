@@ -1,0 +1,48 @@
+INFO:__main__:args: {'model_name': 'ViT-L-14-336', 'img_size': 518, 'relu': False, 'dataset': 'HeRLB_AD', 'shot': 1, 'batch_size': 4, 'seed': 111, 'save_path': '/media/code/AA-CLIP-TTA/AA-CLIP-main/HeRLB_AD_aaclip_1-shot', 'visualize': False, 'text_norm_weight': 0.1, 'text_adapt_weight': 0.1, 'image_adapt_weight': 0.1, 'text_adapt_until': 3, 'image_adapt_until': 6}
+INFO:root:Loading pretrained ViT-L-14-336 from OpenAI.
+INFO:root:Resizing position embedding grid-size from (24, 24) to (37, 37)
+INFO:__main__:-----------------------------------------------
+INFO:__main__:load model from epoch 20
+INFO:__main__:-----------------------------------------------
+INFO:__main__:Class name: HeRLB
+INFO:__main__:Sample number: 469
+INFO:__main__:=====================================
+INFO:__main__:final results:
+class name I-AUROC  I-AP  I-F1max P-AUROC  P-AP  P-F1max P-AUPRO
+  HeRLB      98.48  98.89   93.95   95.27  28.52   34.39   73.03
+INFO:__main__:args: {'model_name': 'ViT-L-14-336', 'img_size': 518, 'relu': False, 'dataset': 'HeRLB_AD', 'shot': 1, 'batch_size': 4, 'seed': 111, 'save_path': '/media/code/AA-CLIP-TTA/AA-CLIP-main/HeRLB_AD_aaclip_1-shot', 'visualize': False, 'text_norm_weight': 0.1, 'text_adapt_weight': 0.1, 'image_adapt_weight': 0.1, 'text_adapt_until': 3, 'image_adapt_until': 6}
+INFO:root:Loading pretrained ViT-L-14-336 from OpenAI.
+INFO:root:Resizing position embedding grid-size from (24, 24) to (37, 37)
+INFO:__main__:-----------------------------------------------
+INFO:__main__:load model from epoch 20
+INFO:__main__:-----------------------------------------------
+INFO:__main__:Class name: HeRLB
+INFO:__main__:Sample number: 469
+INFO:__main__:=====================================
+INFO:__main__:final results:
+class name I-AUROC  I-AP  I-F1max P-AUROC  P-AP  P-F1max P-AUPRO
+  HeRLB      99.91  99.93   99.08   94.77  28.61   34.98   69.49
+INFO:__main__:args: {'model_name': 'ViT-L-14-336', 'img_size': 518, 'relu': False, 'dataset': 'HeRLB_AD', 'shot': 1, 'batch_size': 4, 'seed': 111, 'save_path': '/media/code/AA-CLIP-TTA/AA-CLIP-main/HeRLB_AD_aaclip_1-shot', 'visualize': False, 'text_norm_weight': 0.1, 'text_adapt_weight': 0.1, 'image_adapt_weight': 0.1, 'text_adapt_until': 3, 'image_adapt_until': 6}
+INFO:root:Loading pretrained ViT-L-14-336 from OpenAI.
+INFO:root:Resizing position embedding grid-size from (24, 24) to (37, 37)
+INFO:__main__:-----------------------------------------------
+INFO:__main__:load model from epoch 20
+INFO:__main__:-----------------------------------------------
+INFO:__main__:Class name: HeRLB
+INFO:__main__:Sample number: 469
+INFO:__main__:=====================================
+INFO:__main__:final results:
+class name I-AUROC  I-AP  I-F1max P-AUROC  P-AP  P-F1max P-AUPRO
+  HeRLB      99.21  99.41   96.53   94.01  23.55   29.3    67.18
+INFO:__main__:args: {'model_name': 'ViT-L-14-336', 'img_size': 518, 'relu': False, 'dataset': 'HeRLB_AD', 'shot': 1, 'batch_size': 4, 'seed': 111, 'save_path': '/media/code/AA-CLIP-TTA/AA-CLIP-main/HeRLB_AD_aaclip_1-shot', 'visualize': False, 'text_norm_weight': 0.1, 'text_adapt_weight': 0.1, 'image_adapt_weight': 0.1, 'text_adapt_until': 3, 'image_adapt_until': 6}
+INFO:root:Loading pretrained ViT-L-14-336 from OpenAI.
+INFO:root:Resizing position embedding grid-size from (24, 24) to (37, 37)
+INFO:__main__:-----------------------------------------------
+INFO:__main__:load model from epoch 20
+INFO:__main__:-----------------------------------------------
+INFO:__main__:Class name: HeRLB
+INFO:__main__:Sample number: 469
+INFO:__main__:=====================================
+INFO:__main__:final results:
+class name I-AUROC  I-AP  I-F1max P-AUROC  P-AP  P-F1max P-AUPRO
+  HeRLB      99.75  99.82   97.76   95.12  30.04   35.25   70.1
